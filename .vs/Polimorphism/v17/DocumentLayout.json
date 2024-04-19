@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|c:\\users\\99455\\desktop\\polimorphism-task2\\polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\shark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\domestic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\domestic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\imultiply.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\idivide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\interfaces\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD5A432-7190-436B-ABA3-D82C8DCD80C0}|Polimorphism\\Polimorphism.csproj|solutionrelative:polimorphism\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Area.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Area.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Area.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Area.cs",
+              "RelativeToolTip": "Polimorphism\\Area.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:24:06.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Fish.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Fish.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Fish.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Fish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:22:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shark.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Shark.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Shark.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Shark.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Shark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:21:10.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Domestic.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Domestic.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Domestic.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Domestic.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Domestic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:16:38.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Dog.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:06:31.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Cat.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Cat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T02:02:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Bird.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Bird.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:46:38.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Eagle.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Eagle.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Eagle.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Eagle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T01:46:23.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Program.cs",
+              "RelativeToolTip": "Polimorphism\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:43.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMultiply.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IMultiply.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IMultiply.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IMultiply.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IMultiply.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:28.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDivide.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IDivide.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IDivide.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IDivide.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IDivide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:15:25.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Calculate.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Calculate.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Calculate.cs",
+              "RelativeToolTip": "Polimorphism\\Calculate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:50.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IAdd.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Interfaces\\IAdd.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Interfaces\\IAdd.cs",
+              "RelativeToolTip": "Polimorphism\\Interfaces\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:46.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Polimorphism\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\99455\\Desktop\\Polimorphism-Task2\\Polimorphism\\Models\\Animal.cs",
+              "RelativeToolTip": "Polimorphism\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T07:14:36.043Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 66,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
